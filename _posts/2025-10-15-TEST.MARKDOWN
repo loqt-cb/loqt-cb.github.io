@@ -1,0 +1,25 @@
+---
+title: TEST
+date: 2025-10-15 10:51:40 +/-0000
+categories: [test, hackin]
+tags: [htb, tryhackme, finalfantasy]
+author: cblake
+
+description: This is my first attempt at posting.
+
+# toc: true
+
+comments: false
+
+
+---
+
+
+I guess this is an attempt to make a post.
+```
+This is a plaintext code snippet.
+```
+
+`gansta spuch bob`
+
+![Desktop View](assets/img/realnward.jpg){: width="450" height="300"}
