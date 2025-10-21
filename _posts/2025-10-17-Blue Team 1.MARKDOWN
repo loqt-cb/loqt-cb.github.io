@@ -1,0 +1,42 @@
+---
+title: My Blue Team 1 Review
+date: 2025-10-17 10:51:40 +/-0000
+categories: [learning, certifications]
+tags: [securityblue, btl1]
+author: cblake
+
+description: A review of Security Blue's Blue Team Level 1 Certification, and whether or not it's worth it for someone new to Cybersecurity.
+
+# toc: true
+
+comments: false
+image:
+  path: /assets/img/btl1/btl1certified.png
+  alt: An image of the Blue Team 1 Badge.
+
+
+---
+
+<h2> Overview </h2>
+
+Blue Team Level 1 is one of the more recently released certifications within the past couple of years. With this it can be inferred that the information it contains would be a lot more relevant and applicable compared to older certifications.
+
+One of it's biggest pros is that it provides you with hands-on experience, in addition to the material you learn. This hands on experience is done by running virtual machines that are accessed through your web-browser. To progress through these labs, it provides you with questions that guide you to finding the solution your looking for. Being able to do the labs through these machines, you're able the learn the tools that you would be using when you're working in an entry level position.
+
+There are 6 key domains that are covered: Security Fundamentals, Phishing Analysis, Threat Intelligence, Digital Forensics, SIEM, and Incident Response. These different domains cover the technical skills and software that you'll need for an entry-level position, but also the soft skills and general knowledge that is necessary too.
+
+<h2> My Experience </h2>
+
+The information that BTL1 provides, to at least a college student as myself getting into Cybersecurity, is very valuable. As for someone who has had multiple years in the industry, there is a chance you may learn a thing or two about some software you may have not used. It's an entry level certification, and is curated for those with little to no experience. The modules are well designed, consisting with a mixture of knowledge as if you were reading a text book, however also providing virtual labs that allow you to play around with tools as if you were in a real scenario. These tools include basic ones such as: Autopsy, Wireshark, the MITRE ATT&CK database, along with more niche ones such as: Volatility for memory analysis and DeepBlueCLI for incident response.
+
+![img-description](/assets/img/btl1/autopsyscreen.png)
+_Image of Autopsy's starting page[^footnote]_
+
+The knowledge is very valuable, but what most people consider when it comes to deciding on getting a certification is how it would help them in getting employed. To address this, I think it's valuable to compare and contrast it with probably the most famous entry-level certification, Comptia Security+. This certification differs in that Security+ trains you entirely in conceptual knowledge, and then to achieve it you take an exam. Meanwhile Blue Team 1 has everything focused on making you perform the technical skill that you learn through it. Security+ has been around for a lot longer, and thus it will have more weight when it comes to being on a resume. However I do think that if you want to be competent, having the technical knowledge of BTL1 would be of benefit. Plus, whenever you are in the process of getting a job, employers who are unfamiliar may ask about Blue Team 1, providing you an opportunity to elaborate on what all you have learned through the course. This still makes Blue Team 1 have significance to your career and resume, as well as the fact that with it being unique, it makes you stand out more to employers. Both are valuable to anyone looking to grow in a Cybersecurity career.
+
+<h2> Conclusion </h2>
+
+If you're wondering whether or not Blue Team 1 is worth it for you, I'd suggest considering where you are in Cybersecurity. If you do not know basic information regarding networking, operating system administration, threat intelligence, and malware, it's best that you take time to familiarize yourself with those concepts. That way if you do decide to pursue this certification, everything would be far easier to understand when you go through the provided labs. If you're further into your Cybersecurity career, other options would be better since the information Blue Team 1 provides is not catered to you. If you are someone in the process of learning Cybersecurity, and already have an understanding of the basics, this one would be of great use to you, and I'd recommend it.
+
+<h3> Sources </h3>
+[^footnote]: Image of Autopsy’s starting page. (2025, July 15). GeeksForGeeks. https://www.geeksforgeeks.org/techtips/analysis-of-data-source-using-autopsy/
