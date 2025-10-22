@@ -88,5 +88,5 @@ Make changes to the file, replacing `userid` with your student ID, `schooldomain
 
 Once you have the information written, you want to save this to `/var/lib/iwd` so it can pull this information when you want to connect. You'll want to save this as either `eduroam.8021x` for eduroam, or `essid.8021x` for your school's wifi.
 
-Once it is saved, go ahead and run a scan using `iwctl station {device name} scan`, wait for it to finish, and then run `iwctl station {device name} connect {network name}`. Once it is connected run `ping 8.8.8.8` and make sure you see packets being successfully transmitted.
+Once it is saved, go ahead and run a scan using `iwctl station {device name} scan`, wait for it to finish, and then run `iwctl station {device name} connect {network name}`. Once it is connected run `ping 8.8.8.8` and make sure you see packets being successfully transmitted to and from the server you are pinging.
 
