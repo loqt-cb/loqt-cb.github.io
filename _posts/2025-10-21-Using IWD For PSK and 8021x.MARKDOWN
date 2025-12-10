@@ -1,5 +1,5 @@
 ---
-title: Using iNet Wireless Daemon (IWD) for PSK and 8021x
+title: Using iNet Wireless Daemon (IWD) for PSK and 802.1x
 date: 2025-10-21 5:47:09 +/-0000
 categories: [Education, Tutorials]
 tags: [networking, linux]
