@@ -4,11 +4,11 @@ date: 2025-11-18 10:19:20 +/-0000
 categories: [Education, Tutorials]
 tags: [linux, bash, networking, network analysis]
 author: cblake
-description: Some basic Linux commands that would be useful for (nearly) any SOC Analysis.
+description: Some basic Linux commands that would be helpful for (nearly) any SOC Analysis.
 comments: false
 image:
   path: /assets/img/bashsoccmds/logo.png
-  alt: The logo for this HackTheBox challenge.
+  alt: Tux showing us some important information!
 
 ---
 # test
