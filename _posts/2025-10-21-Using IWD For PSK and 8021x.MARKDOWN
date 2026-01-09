@@ -4,7 +4,7 @@ date: 2025-10-21 5:47:09 +/-0000
 categories: [Education, Tutorials]
 tags: [networking, linux]
 author: cblake
-description: A brief demonstration on how to use IWD for PSK and 8021x specifically for universities.
+description: A brief demonstration on how to use IWD for PSK and 802.1x specifically for universities.
 comments: false
 image:
   path: /assets/img/iwdatuni/iwctltux.png
@@ -66,10 +66,10 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 rtt min/avg/max/mdev = 3.538/6.313/9.623/2.164 ms
 ```
 
-<h2> Connecting to a network with 8021x </h2>
-8021x in IWD can be troubling if you are left without any idea on how to authenticate. You cannot connect like your typical PSK home network, and it requires more parameters such as a username.
+<h2> Connecting to a network with 802.1x </h2>
+802.1x in IWD can be troubling if you are left without any idea on how to authenticate. You cannot connect like your typical PSK home network, and it requires more parameters such as a username.
 
-School wifi commonly uses 8021x since there are user accounts linked to school emails, which cannot be authenticated normally into IWD. However, to handle this all we need to do is create an authentication protocol for IWD to read whenever you're looking to connect to a network with 8021x. A very common one network that you can do this on would be `eduroam` but you can use this for any network.
+School wifi commonly uses 802.1x since there are user accounts linked to school emails, which cannot be authenticated normally into IWD. However, to handle this all we need to do is create an authentication protocol for IWD to read whenever you're looking to connect to a network with 802.1x. A very common one network that you can do this on would be `eduroam` but you can use this for any network.
 
 To do this you need a file with the following information:
 ```
