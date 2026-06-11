@@ -5,8 +5,6 @@ order: 4
 ---
 
 
-![Desktop View](/assets/img/circle.png){: width="150" height="150" .w-10 .left}
-
 Welcome to my site! - [My Resume](/assets/docs/CBlakeResumeFB.pdf) 
 
 
