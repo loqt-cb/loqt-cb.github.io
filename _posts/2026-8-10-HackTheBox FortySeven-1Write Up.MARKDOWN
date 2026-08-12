@@ -8,7 +8,7 @@ description: A Write-up of the FortySeven-1 sherlock on HackTheBox
 comments: false
 image:
   path: /assets/img/fortyseven1/logo.png
-  alt: A screenshot of the NCL end-game report
+  alt: The default HackTheBox logo.
 
 ---
 
